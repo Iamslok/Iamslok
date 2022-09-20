@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Ecommerce site](https://www.spadematerial.com/)
 
-- 🌱 I’m currently learning **Devops**
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 💬 Ask me about **Angular, C#, Html, Css, Javascript, Typescript**
