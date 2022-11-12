@@ -12,5 +12,5 @@ I'm Sai Lokesh, I'm a Junior Sofware Developer 👨‍💻 who is passionate abo
 - 🔭 I’m currently working on Angular 
 - 🌱 I’m currently learning Devops and GO LANG
 - 💬 Ask me about: Webdev, Opensource
-- ⚡ Languages: Javascript, C#, Typescript, Golang
+- ⚡ Languages: Javascript, C#, Asp.Net Web Api, Typescript, Golang
 - 📫 How to reach me **sailokeshiamslok@gmail.com**
